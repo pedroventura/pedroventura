@@ -20,7 +20,11 @@
     </td>
     <td width="30%" valign="top" align="center">
       <h2>⭐ Founder · Enolisa</h2>
-      <p><img src="enolisa-logo.svg" alt="Enolisa" width="160" /></p>
+      <p>
+        <a href="https://enolisa.com/" target="_blank" rel="noopener noreferrer">
+          <img src="enolisa-logo.svg" alt="Enolisa" width="160" />
+        </a>
+      </p>
       <p><strong>Founder, Enolisa</strong></p>
     </td>
   </tr>
