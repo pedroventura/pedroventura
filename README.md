@@ -31,7 +31,7 @@
 
 Broad experience across the stack, with a focus on building practical products end-to-end.
 
-**Core / recent focus**: `Python` | `Node.js` | `Firebase` | `Google Cloud (GCP)` | `BigQuery` | `Flutter`
+**Core / recent focus**: `Python` | `Node.js` | `Firebase` | `Google Cloud (GCP)` | `Flutter`
 
 <details>
   <summary><strong>Full list (by area)</strong></summary>
@@ -81,29 +81,6 @@ Broad experience across the stack, with a focus on building practical products e
 
 ## 🎓 Certifications
 
-**Selected**: Google Data Analytics · Google IT Automation with Python · Leading Innovation (MIT) · AI Fundamentals (Microsoft Azure)
-
-<details>
-  <summary><strong>All certifications</strong></summary>
-  <br />
-
-  <strong>Coursera</strong>
-  <ul>
-    <li>Google Data Analytics</li>
-    <li>Google AI Essentials</li>
-    <li>Google IT Automation with Python</li>
-    <li>Blockchain Specialization – University at Buffalo</li>
-    <li>Marketing Strategy Specialization – IE Business School</li>
-  </ul>
-
-  <strong>MIT</strong>
-  <ul>
-    <li>Leading Innovation</li>
-  </ul>
-
-  <strong>Microsoft Azure</strong>
-  <ul>
-    <li>AI Fundamentals</li>
-    <li>Data Fundamentals</li>
-  </ul>
-</details>
+- **Coursera**: Google Data Analytics · Google AI Essentials · Google IT Automation with Python · Blockchain Specialization (University at Buffalo) · Marketing Strategy Specialization (IE Business School)
+- **MIT**: Leading Innovation
+- **Microsoft Azure**: AI Fundamentals · Data Fundamentals
