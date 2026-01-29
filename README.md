@@ -31,12 +31,18 @@
 
 Broad experience across the stack, with a focus on building practical products end-to-end.
 
-**Core / recent focus**: `Python` | `Node.js` | `Firebase` | `Google Cloud (GCP)` | `Flutter`
+**Core / recent focus**: `Prompt Engineering` | `AI` | `Python` | `Node.js` | `Firebase` | `Google Cloud (GCP)` | `Flutter`
 
 <details>
   <summary><strong>Full list (by area)</strong></summary>
   <br />
 
+  <strong>🤖 Applied AI &amp; Generative Models</strong><br />
+  <code>Prompt Engineering (LLMs &amp; Multimodal)</code> | <code>Vertex AI (Gemini, Generative Models)</code> | <code>OpenAI APIs (Text &amp; Vision Models)</code> | <code>Image Generation &amp; Visual Models</code>
+  <br />
+  <code>AI-driven Content Generation</code> | <code>Semantic Search &amp; Embeddings</code> | <code>Model Orchestration &amp; Caching</code> | <code>AI Cost Optimization &amp; Token Management</code>
+
+  <br /><br />
   <strong>💻 Programming Languages</strong><br />
   <code>Python</code> | <code>PHP</code> | <code>JavaScript</code> | <code>Dart</code> | <code>Bash</code>
 
