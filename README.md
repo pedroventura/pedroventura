@@ -1,13 +1,8 @@
-<p align="center">
-  <a href="https://www.pedroventura.com/" target="_blank" rel="noopener noreferrer">
-    <img src="home-new.png" alt="Pedro Ventura" />
-  </a>
-</p>
 
 <table>
   <tr>
     <td width="70%" valign="top">
-      <h2>🚀 Leadership & Project Management</h2>
+      <h2>🚀 Technical & Strategic Leadership</h2>
       <p>Since <strong>2008</strong>, I have evolved from a strong technical profile into leading teams, resources, and strategy across high-impact projects.</p>
       <ul>
         <li>📌 <strong>Cross-functional coordination</strong> of technical and business teams.</li>
@@ -34,52 +29,81 @@
 
 ## 🛠️ Technologies & Stack
 
-Throughout my career, I have worked with a broad set of technologies, frameworks, and platforms, grouped by area:
+Broad experience across the stack, with a focus on building practical products end-to-end.
 
-### 💻 Programming Languages
-`Python` | `PHP` | `JavaScript` | `Dart` | `Bash`
+**Core / recent focus**: `Python` | `Node.js` | `Firebase` | `Google Cloud (GCP)` | `BigQuery` | `Flutter`
 
-### 📱 Frontend & Mobile
-`Flutter` | `HTML5` | `Bootstrap` | `jQuery` | `AJAX`
+<details>
+  <summary><strong>Full list (by area)</strong></summary>
+  <br />
 
-### ⚙️ Backend
-`Node.js` | `Firebase (Cloud Functions, Firestore)` | `CakePHP` | `Phalcon`
+  <strong>💻 Programming Languages</strong><br />
+  <code>Python</code> | <code>PHP</code> | <code>JavaScript</code> | <code>Dart</code> | <code>Bash</code>
 
-### 🗄️ Databases
-`Google BigQuery` | `MySQL` | `SQL Server` | `SQLite` | `NoSQL`
+  <br /><br />
+  <strong>📱 Frontend &amp; Mobile</strong><br />
+  <code>Flutter</code> | <code>HTML5</code> | <code>Bootstrap</code> | <code>jQuery</code> | <code>AJAX</code>
 
-### ☁️ Cloud & Infrastructure
-`Google Cloud Platform (GCP)` | `Amazon Web Services (AWS)` | `Microsoft Azure` | `Vercel` | `DigitalOcean` | `Nginx` | `Apache`
+  <br /><br />
+  <strong>⚙️ Backend</strong><br />
+  <code>Node.js</code> | <code>Firebase (Cloud Functions, Firestore)</code> | <code>CakePHP</code> | <code>Phalcon</code>
 
-### 📰 CMS & Search Engines
-`WordPress` | `Sphinx`
+  <br /><br />
+  <strong>🗄️ Databases</strong><br />
+  <code>Google BigQuery</code> | <code>MySQL</code> | <code>SQL Server</code> | <code>SQLite</code> | <code>NoSQL</code>
 
-### 🔗 APIs & Integrations
-`Google APIs` | `Facebook API` | `Twitter API` | `JSON`
+  <br /><br />
+  <strong>☁️ Cloud &amp; Infrastructure</strong><br />
+  <code>Google Cloud Platform (GCP)</code> | <code>Amazon Web Services (AWS)</code> | <code>Microsoft Azure</code> | <code>Vercel</code> | <code>DigitalOcean</code> | <code>Nginx</code> | <code>Apache</code>
 
-### 🔒 Security & Systems Administration
-`Linux System Administration` | `Application Security` | `Server Hardening`
+  <br /><br />
+  <strong>📰 CMS &amp; Search Engines</strong><br />
+  <code>WordPress</code> | <code>Sphinx</code>
 
-### 📊 Advertising, Analytics & Scraping
-`Google Ads` | `Google Ad Manager (GAM)` | `Kevel` | `DV360` | `Google Analytics` | `Web Scraping`
+  <br /><br />
+  <strong>🔗 APIs &amp; Integrations</strong><br />
+  <code>Google APIs</code> | <code>Facebook API</code> | <code>Twitter API</code> | <code>JSON</code>
 
-### 🔮 Innovation & Emerging Technologies
-`Blockchain` | `IoT`
+  <br /><br />
+  <strong>🔒 Security &amp; Systems Administration</strong><br />
+  <code>Linux System Administration</code> | <code>Application Security</code> | <code>Server Hardening</code>
+
+  <br /><br />
+  <strong>📊 Advertising, Analytics &amp; Scraping</strong><br />
+  <code>Google Ads</code> | <code>Google Ad Manager (GAM)</code> | <code>Kevel</code> | <code>DV360</code> | <code>Google Analytics</code> | <code>Web Scraping</code>
+
+  <br /><br />
+  <strong>🔮 Innovation &amp; Emerging Technologies</strong><br />
+  <code>Blockchain</code> | <code>IoT</code>
+</details>
 
 ---
 
 ## 🎓 Certifications
 
-### Coursera
-- Google Data Analytics
-- Google AI Essentials
-- Google IT Automation with Python
-- Blockchain Specialization – University at Buffalo
-- Marketing Strategy Specialization – IE Business School
+**Selected**: Google Data Analytics · Google IT Automation with Python · Leading Innovation (MIT) · AI Fundamentals (Microsoft Azure)
 
-### MIT
-- Leading Innovation
+<details>
+  <summary><strong>All certifications</strong></summary>
+  <br />
 
-### Microsoft Azure
-- AI Fundamentals
-- Data Fundamentals
+  <strong>Coursera</strong>
+  <ul>
+    <li>Google Data Analytics</li>
+    <li>Google AI Essentials</li>
+    <li>Google IT Automation with Python</li>
+    <li>Blockchain Specialization – University at Buffalo</li>
+    <li>Marketing Strategy Specialization – IE Business School</li>
+  </ul>
+
+  <strong>MIT</strong>
+  <ul>
+    <li>Leading Innovation</li>
+  </ul>
+
+  <strong>Microsoft Azure</strong>
+  <ul>
+    <li>AI Fundamentals</li>
+    <li>Data Fundamentals</li>
+  </ul>
+</details>
