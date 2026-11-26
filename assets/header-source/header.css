@@ -1,0 +1,9 @@
+/* Todos los elementos permanecen superpuestos dentro del banner. */
+.profile-hero { position:relative; container-type:inline-size; margin-bottom:22px; border-radius:10px; color:#233f45; -webkit-text-size-adjust:none; text-size-adjust:none; }
+.markdown-body .profile-hero__background { display:block; width:100%; height:auto; border-radius:10px; }
+.profile-hero__content { position:absolute; inset:0; text-align:left; }
+.markdown-body .profile-hero__eyebrow { position:absolute; top:4.1cqw; left:4cqw; margin:0; color:#34646d; font-size:1.35cqw; font-weight:700; line-height:1.5; letter-spacing:.12cqw; }
+.markdown-body .profile-hero__title { position:absolute; top:10cqw; left:4cqw; width:31cqw; margin:0; padding:0; border:0; font-size:2.85cqw; font-weight:650; line-height:1.45; letter-spacing:-.08cqw; }
+.profile-hero__title span { display:block; white-space:nowrap; }
+.profile-flow { position:absolute; top:8.2cqw; left:36cqw; display:block; width:27cqw; height:auto; overflow:visible; }
+.markdown-body .profile-hero__scope { position:absolute; top:27.4cqw; left:4cqw; margin:0; font-size:1.15cqw; line-height:1.5; letter-spacing:.06cqw; color:#3e6067; font-weight:500; }

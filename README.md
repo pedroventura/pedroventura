@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Pedro Ventura — Entrepreneur. Technology leadership, software architecture and applied AI." />
+  <img src="assets/header.png" width="100%" alt="Pedro Ventura — Entrepreneur. Technology leadership, software architecture and applied AI." />
 </p>
 
 I'm Pedro, an entrepreneur and technology professional based in Spain.
