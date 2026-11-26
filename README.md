@@ -9,8 +9,8 @@ I've worked in software development since 2008, with a career spanning hands-on 
 ## Technical expertise
 
 <picture>
-  <source media="(max-width: 620px)" srcset="assets/expertise-mobile.svg" />
-  <img src="assets/expertise.svg" width="100%" alt="Generative &amp; multimodal AI: Text, vision, images, video, audio &amp; music. Structured prompts. Reusable context.; Agent systems that deliver: Multi-agent orchestration. Reusable skills. Specifications → code, tests &amp; documentation.; MCP &amp; connected systems: Custom servers, tools &amp; API integrations. OAuth, scoped access &amp; audit trails. Duplicate-safe business operations.; Search &amp; personalisation: Natural-language search &amp; recommendations. SQL, migrations &amp; multilingual catalogues.; Production-ready engineering: Cloud, serverless &amp; event-driven services. Mobile sync, subscriptions &amp; localisation. Observability. Validated iOS/Android releases.; Technology &amp; business impact: Technical leadership &amp; product strategy. Analytics, SEO/ASO &amp; workflow automation." />
+  <source media="(max-width: 620px)" srcset="https://raw.githubusercontent.com/pedroventura/pedroventura/5eba905949754ab7ee34fcc3ad77c8d28e2bbcae/assets/expertise-mobile.svg" />
+  <img src="https://raw.githubusercontent.com/pedroventura/pedroventura/5eba905949754ab7ee34fcc3ad77c8d28e2bbcae/assets/expertise.svg" width="100%" alt="Generative &amp; multimodal AI: Text, vision, images, video, audio &amp; music. Structured prompts. Reusable context.; Agent systems that deliver: Multi-agent orchestration. Reusable skills. Specifications → code, tests &amp; documentation.; MCP &amp; connected systems: Custom servers, tools &amp; API integrations. OAuth, scoped access &amp; audit trails. Duplicate-safe business operations.; Search &amp; personalisation: Natural-language search &amp; recommendations. SQL, migrations &amp; multilingual catalogues.; Production-ready engineering: Cloud, serverless &amp; event-driven services. Mobile sync, subscriptions &amp; localisation. Observability. Validated iOS/Android releases.; Technology &amp; business impact: Technical leadership &amp; product strategy. Analytics, SEO/ASO &amp; workflow automation." />
 </picture>
 
 <details>
@@ -31,35 +31,35 @@ I've worked in software development since 2008, with a career spanning hands-on 
 **AI &amp; developer tooling**
 
 <p>
-  <img src="assets/mcp.svg" height="38" alt="MCP" />
-  <img src="assets/prompt-engineering.svg" height="38" alt="Prompt Engineering" />
-  <img src="assets/vertex-ai.svg" height="38" alt="Vertex AI" />
-  <img src="assets/openai.svg" height="38" alt="OpenAI" />
-  <img src="assets/claude.svg" height="38" alt="Claude" />
-  <img src="assets/microsoft-cowork.svg" height="38" alt="Microsoft Copilot Cowork" />
-  <img src="assets/gemini.svg" height="38" alt="Gemini" />
-  <img src="assets/agent-skills.svg" height="38" alt="Agent Skills" />
-  <img src="assets/codex.svg" height="38" alt="Codex" />
+  <img src="https://raw.githubusercontent.com/pedroventura/pedroventura/5eba905949754ab7ee34fcc3ad77c8d28e2bbcae/assets/mcp.svg" height="38" alt="MCP" />
+  <img src="https://raw.githubusercontent.com/pedroventura/pedroventura/5eba905949754ab7ee34fcc3ad77c8d28e2bbcae/assets/prompt-engineering.svg" height="38" alt="Prompt Engineering" />
+  <img src="https://raw.githubusercontent.com/pedroventura/pedroventura/5eba905949754ab7ee34fcc3ad77c8d28e2bbcae/assets/vertex-ai.svg" height="38" alt="Vertex AI" />
+  <img src="https://raw.githubusercontent.com/pedroventura/pedroventura/5eba905949754ab7ee34fcc3ad77c8d28e2bbcae/assets/openai.svg" height="38" alt="OpenAI" />
+  <img src="https://raw.githubusercontent.com/pedroventura/pedroventura/5eba905949754ab7ee34fcc3ad77c8d28e2bbcae/assets/claude.svg" height="38" alt="Claude" />
+  <img src="https://raw.githubusercontent.com/pedroventura/pedroventura/5eba905949754ab7ee34fcc3ad77c8d28e2bbcae/assets/microsoft-cowork.svg" height="38" alt="Microsoft Copilot Cowork" />
+  <img src="https://raw.githubusercontent.com/pedroventura/pedroventura/5eba905949754ab7ee34fcc3ad77c8d28e2bbcae/assets/gemini.svg" height="38" alt="Gemini" />
+  <img src="https://raw.githubusercontent.com/pedroventura/pedroventura/5eba905949754ab7ee34fcc3ad77c8d28e2bbcae/assets/agent-skills.svg" height="38" alt="Agent Skills" />
+  <img src="https://raw.githubusercontent.com/pedroventura/pedroventura/5eba905949754ab7ee34fcc3ad77c8d28e2bbcae/assets/codex.svg" height="38" alt="Codex" />
 </p>
 
 **Cloud &amp; data**
 
 <p>
-  <img src="assets/gcp.svg" height="38" alt="Google Cloud" />
-  <img src="assets/firebase.svg" height="38" alt="Firebase" />
-  <img src="assets/cloud-run.svg" height="38" alt="Cloud Run" />
-  <img src="assets/postgresql.svg" height="38" alt="PostgreSQL" />
-  <img src="assets/sqlite.svg" height="38" alt="SQLite" />
-  <img src="assets/bigquery.svg" height="38" alt="BigQuery" />
+  <img src="https://raw.githubusercontent.com/pedroventura/pedroventura/5eba905949754ab7ee34fcc3ad77c8d28e2bbcae/assets/gcp.svg" height="38" alt="Google Cloud" />
+  <img src="https://raw.githubusercontent.com/pedroventura/pedroventura/5eba905949754ab7ee34fcc3ad77c8d28e2bbcae/assets/firebase.svg" height="38" alt="Firebase" />
+  <img src="https://raw.githubusercontent.com/pedroventura/pedroventura/5eba905949754ab7ee34fcc3ad77c8d28e2bbcae/assets/cloud-run.svg" height="38" alt="Cloud Run" />
+  <img src="https://raw.githubusercontent.com/pedroventura/pedroventura/5eba905949754ab7ee34fcc3ad77c8d28e2bbcae/assets/postgresql.svg" height="38" alt="PostgreSQL" />
+  <img src="https://raw.githubusercontent.com/pedroventura/pedroventura/5eba905949754ab7ee34fcc3ad77c8d28e2bbcae/assets/sqlite.svg" height="38" alt="SQLite" />
+  <img src="https://raw.githubusercontent.com/pedroventura/pedroventura/5eba905949754ab7ee34fcc3ad77c8d28e2bbcae/assets/bigquery.svg" height="38" alt="BigQuery" />
 </p>
 
 **Application development**
 
 <p>
-  <img src="assets/flutter.svg" height="38" alt="Flutter" />
-  <img src="assets/dart.svg" height="38" alt="Dart" />
-  <img src="assets/python.svg" height="38" alt="Python" />
-  <img src="assets/nodejs.svg" height="38" alt="Node.js" />
+  <img src="https://raw.githubusercontent.com/pedroventura/pedroventura/5eba905949754ab7ee34fcc3ad77c8d28e2bbcae/assets/flutter.svg" height="38" alt="Flutter" />
+  <img src="https://raw.githubusercontent.com/pedroventura/pedroventura/5eba905949754ab7ee34fcc3ad77c8d28e2bbcae/assets/dart.svg" height="38" alt="Dart" />
+  <img src="https://raw.githubusercontent.com/pedroventura/pedroventura/5eba905949754ab7ee34fcc3ad77c8d28e2bbcae/assets/python.svg" height="38" alt="Python" />
+  <img src="https://raw.githubusercontent.com/pedroventura/pedroventura/5eba905949754ab7ee34fcc3ad77c8d28e2bbcae/assets/nodejs.svg" height="38" alt="Node.js" />
 </p>
 
 <details>
